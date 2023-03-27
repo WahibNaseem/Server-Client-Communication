@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp_Prototype", "ServerApp_Prototype.csproj", "{846677E8-FB46-492A-A0BC-A9E2FE4C8674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "..\WPFClient\WPFClient.csproj", "{26EB6508-E6DF-405F-8F7D-C7FB8287C81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846677E8-FB46-492A-A0BC-A9E2FE4C8674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846677E8-FB46-492A-A0BC-A9E2FE4C8674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846677E8-FB46-492A-A0BC-A9E2FE4C8674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846677E8-FB46-492A-A0BC-A9E2FE4C8674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EB6508-E6DF-405F-8F7D-C7FB8287C81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EB6508-E6DF-405F-8F7D-C7FB8287C81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EB6508-E6DF-405F-8F7D-C7FB8287C81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EB6508-E6DF-405F-8F7D-C7FB8287C81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBD726F-F7EA-4CF3-BF80-1898930B20D2}
+	EndGlobalSection
+EndGlobal
